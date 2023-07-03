@@ -1,3 +1,3 @@
-const api = "http://andrejohan.my.id/backend-uas/"
+const api = "https://andrejohan.my.id/backend-uas/"
 
 export default api
